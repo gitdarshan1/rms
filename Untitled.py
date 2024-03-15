@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 class RMS:
     def __init__(self,restaurant_name,menu):
@@ -122,21 +117,6 @@ if __name__ == '__main__':
     window.
     #window.button(window,text='MENU',command=ms_res.menu,height=2,width=18).place(x=150,y=160)
     window.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[1]:
 
 
 class RMS:
